@@ -1,0 +1,29 @@
+
+.margin{
+    margin: 250px 0 0 0;
+}
+.page-footer{
+    margin: 500px 0 0 0;
+}
+.contact{
+    margin: 300px 0 0 0;
+   border: 5px solid grey;
+}
+.img-thumbnail{
+    max-height: 300px;
+    transition: transform .2s;
+    
+}
+.img-thumbnail:hover{
+    transform: scale(0.5):
+    -ms-transform: scale(0.5); /* IE 9 */
+  -webkit-transform: scale(0.5); /* Safari 3-8 */
+  transform: scale(0.5); 
+    
+}
+.btn{
+    height: 100px;
+    width: 150px;
+   margin: 20px 30px 0 0 ;
+  
+}
